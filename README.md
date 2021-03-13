@@ -178,7 +178,7 @@
 
 ```
 1. git clone https://github.com/kevin102606/vue-manage-system
-2. cd  vue-mall
+2. cd  vue-manage-system
 3. npm install
 4. npm run serve
 ```
