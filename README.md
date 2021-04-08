@@ -7,7 +7,7 @@
 ### 项目技术栈：
 
 + vue-cli
-+ vue-router
++ vue-router 
 + vuex
 + axios
 + element-ui
