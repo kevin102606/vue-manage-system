@@ -2,12 +2,12 @@
 
 ### 项目说明：
 
-一个电商后台管理系统 
+一个电商后台管理系统
 
 ### 项目技术栈：
 
 + vue-cli
-+ vue-router 
++ vue-router
 + vuex
 + axios
 + element-ui
